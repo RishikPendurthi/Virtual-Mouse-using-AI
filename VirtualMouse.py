@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import HandTrackingModule1 as htm
+import HandTrackingModule2 as htm
 import time
 import autopy
 
